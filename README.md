@@ -20,4 +20,4 @@
 ![output img](./screenshot/image.png)  
 
 ### Time Taken - 9 hours
-### Live link - 
+### Live link - [Link](https://hosting-landing-page-zeta.vercel.app/)
